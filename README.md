@@ -1,2 +1,3 @@
 # vidu
  ---
+READ THIS 
